@@ -2,12 +2,11 @@
 
 ## Student Details
 
-- **Name:** LATCHIPATRUNI CHARAN TEJA
-- **Registration Number:** 252U1R8045
-- **Section:** CSE(QE)-2B - 204
+- **Name:** CH.MARUTHI
+- **Registration Number:** 252U1R5032
+- **Section:** CSE(AIDE)-2B - 106
 
-**Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
-
+**Deployed link:** 
 ## Objective
 
 To create a basic HTTP server using Node.js and build a web server using Express.js with multiple routes and proper HTTP status codes.
