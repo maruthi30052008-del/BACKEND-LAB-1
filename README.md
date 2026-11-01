@@ -4,7 +4,7 @@
 
 - **Name:** CH.MARUTHI
 - **Registration Number:** 252U1R5032
-- **Section:** CSE(AIDE)-2B - 106
+- **Section:** CSE(AIDE)-2A - 106
 
 **Deployed link:** 
 ## Objective
